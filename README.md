@@ -52,3 +52,6 @@ You only have to open the tortel.exe (for SOCKS5 proxy) or tortel-http.exe (for 
 
 - [@InsektDotBin](https://www.github.com/insektdotbin)
 
+## Thanks to
+
+- [@Matinrco](https://www.github.com/matinrco) for providing the tor expert bundle.
