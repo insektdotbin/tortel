@@ -1,7 +1,7 @@
 
-# TorTel - The Tor based proxy
+# TorTel - The Tor Downloader/Launcher 
 
-Tortel is a Tor local proxy, Anonymous and free of Ads, you can use this program to download Tor-CLI, launch it as a SOCKS5/HTTP Proxy and use it on any proxy supported program.
+Tortel is a Tor local proxy, Anonymous and free of Ads, you can use this program to download Tor-CLI, launch it as a SOCKS5/HTTP Proxy and use it on any proxy supported application.
 ## Installation
 
 You only have to open the tortel.exe (for SOCKS5 proxy) or tortel-http.exe (for HTTP proxy), TorTel will download and launch Tor service automatically and serves you proxy address and port with your usage (SOCKS5 or HTTP)
@@ -27,8 +27,6 @@ You only have to open the tortel.exe (for SOCKS5 proxy) or tortel-http.exe (for 
 #### Telegram Usage ↓
 ![Telegram Screenshot](https://i.postimg.cc/zGKDMkPp/image.png)
 
-#### TorTel v1.0.0 Screenshot ↓
-![Program Screenshot](https://i.postimg.cc/Jh7nkkPq/image.png)
 ## Releases and repository stats
 
 
@@ -52,5 +50,5 @@ You only have to open the tortel.exe (for SOCKS5 proxy) or tortel-http.exe (for 
 
 ## Authors
 
-- [@imD0X](https://www.github.com/imD0X)
+- [@InsektDotBin](https://www.github.com/insektdotbin)
 
