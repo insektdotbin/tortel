@@ -22,7 +22,6 @@ BANNER = "TORTEL"
 def banner():
     tprint(BANNER)
     print("Ver 1.0.2                 ")
-    print("TG: @itsd0x")
     print("A Tor local proxy, Anonymous and free of Ads!")
     print("= = = = = = =" * 4)
 
